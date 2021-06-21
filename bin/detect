@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# This build pack is valid for all any apps
+echo "youtube-dl"
+exit 0
