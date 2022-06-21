@@ -1,5 +1,5 @@
 #!/bin/sh
 
 # This build pack is valid for all any apps
-echo "youtube-dl"
+echo "yt-dlp"
 exit 0
